@@ -1,5 +1,5 @@
 # uriphish
-RASPBARRY PI 4 AS PHISHING SERVER HEADLESS
+RASPBARRY PI 4 AS PHISHING SERVER
 
 This is a set of phishing pages,which can be hosted on raspberry to make fullyloaded phishing server.
 
